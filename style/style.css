@@ -1,0 +1,116 @@
+.cabecalho{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+}
+
+.cabecalho img{
+    width: 100px;
+}
+
+.cabecalho nav{
+    display: flex;
+    gap: 30px;
+}
+
+.corpo{
+    padding: 25px 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(246, 233, 252);
+    border-bottom: 1px solid rgb(205, 123, 243);
+}
+
+.corpo img{
+    width: 700px;
+    border-radius: 20px;
+   
+}
+
+.sobre{
+    padding: 25px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(246, 233, 252);
+    border-bottom: 1px solid rgb(205, 123, 243);
+}
+
+.h1{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: rgb(73, 2, 114);
+}
+
+.sobre nav{
+    display: flex;
+    gap: 30px;
+}   
+
+.hum{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+    color: darkslateblue;
+}
+
+.lin{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+    color: darkslateblue;  
+}
+
+.nat{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+    color: darkslateblue;
+}
+
+.tec{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+    color: darkslateblue;
+}
+
+.mtm{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+    color: darkslateblue;
+}
+
+.eu{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+    color: darkslateblue;
+}
+
+.cur{
+    padding: 0px 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(222, 166, 248);
+    color: darkslateblue;
+}
+
