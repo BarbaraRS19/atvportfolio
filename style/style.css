@@ -114,3 +114,53 @@
     color: darkslateblue;
 }
 
+.img1{
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.img2{
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.img3{
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.img4{
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.img5{
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    width: 250px;
+}
+
+.sobreeu{
+        display: flex;
+        margin: auto;
+        margin-top: 20px;
+        width: 250px;
+}
+
+.curriculo{
+        display: flex;
+        margin: auto;
+        margin-top: 20px;
+        width: 250px;
+    }
+
+
